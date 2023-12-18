@@ -1,3 +1,3 @@
-## This is my portfolio site, click on github pages to see the trick
+## This is my portfolio site, 
 # My-Portfolio
 # My-Portfolio
